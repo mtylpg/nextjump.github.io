@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "What It Means to Become Independent"
+title: What It Means to Become Independent
 author: Charlie
+twitter: charlieykim
 categories: ceooffice
+picture: charlie.jpg
 ---
 The goal of all parents is to have their child go from being dependent to independent.
 

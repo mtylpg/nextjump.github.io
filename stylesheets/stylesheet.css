@@ -425,3 +425,29 @@ Small Device Styles
   }
 
 }
+
+/*******************************************************************************
+My Styles
+*******************************************************************************/
+.twitter {
+    width: 100px;
+    float: right;
+    background-color: orange;
+    padding: 5px 10px;
+    margin: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+    -webkit-transition: background-color 0.5s linear;
+    -moz-transition: background-color 0.5s linear;
+    -o-transition: background-color 0.5s linear;
+    -ms-transition: background-color 0.5s linear;
+    transition: background-color 0.5s linear;
+}
+.twitter:hover {
+    background-color: #FF7F00;
+}
+.twitter .handle {
+    color: black;
+    font-weight: bold;
+}
