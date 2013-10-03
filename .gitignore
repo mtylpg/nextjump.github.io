@@ -1,0 +1,5 @@
+# generally good practice to ignore your gitignore but...
+# .gitignore
+
+# don't save the auto-generated content, unless it turns out we need it
+_site
