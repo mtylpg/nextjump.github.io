@@ -9,8 +9,10 @@ layout: default
     <div class="post">
         {{ content }}
     </div>
-    <div class="twitter">
-        <a href="https://twitter.com/{{ page.twitter }}"><span class="handle">@{{ page.twitter }}</span></a>
-    </div>
-    <div style="clear: both;"></div>
+    {% if page.twitter %}
+        <div class="twitter">
+            <a href="https://twitter.com/{{ page.twitter }}"><span class="handle">@{{ page.twitter }}</span></a>
+        </div>
+        <div style="clear: both;"></div>
+    {% endif %}
 </section>
