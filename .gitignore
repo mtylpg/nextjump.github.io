@@ -3,4 +3,6 @@
 
 # don't save the auto-generated content, unless it turns out we need it
 _site
-.DS_Store #silly macbook
+
+#silly macbook
+.DS_Store
