@@ -468,7 +468,7 @@ My Styles
 }
 .imageBox img {
     width: 100px;
-    height: 100px;
+    height: 125px;
     top: 0;
 }
 .postPreview .date {
@@ -478,7 +478,7 @@ My Styles
     background-color: #333;
     color: white;
     position:relative;
-    top:-33px;
+    top:-8px;
     padding-left: 5px;
 }
 .postTitle {
