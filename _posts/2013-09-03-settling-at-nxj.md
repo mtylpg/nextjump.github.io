@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Settling in at Next Jump
+title: "Settling in at Next Jump"
 author: Lauren
-categories: nonprofit
+category: general
 picture: lauren.png
 ---
 

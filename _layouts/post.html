@@ -3,6 +3,9 @@ layout: default
 ---
 <section id="main_content" class="inner">
     <h2>{{ page.title }}</h2>
+    {% if page.subtitle %}
+    <h3>{{ page.subtitle }}</h3>
+    {% endif %}
     {% if page.picture %}
         <img src="/images/{{ page.picture }}" style="max-width: 100px;">
     {% endif %}
