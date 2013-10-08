@@ -135,11 +135,7 @@ strong {
 
 img {
   position: relative;
-  margin: 0 auto;
   max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
 
   box-shadow: 0 0 5px #ebebeb;
   -webkit-box-shadow: 0 0 5px #ebebeb;
@@ -444,4 +440,44 @@ My Styles
 .twitter .handle {
     color: black;
     font-weight: bold;
+}
+.spacer {
+    width: 23%;
+    display: inline-block;
+    text-align: center;
+}
+.bar {
+    height: 3px;
+    width: 400px;
+    margin: 20px auto 0;
+    background-color: #f17006;
+}
+#project_title.mainTitle {
+    color: #f17006;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.imageBox {
+    float: left;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin: 0 20px 5px 0;
+}
+.imageBox img {
+    width: 100px;
+    height: 100px;
+    top: 0;
+}
+.postPreview .date {
+    font-style: italic;
+}
+.imageSub {
+    background-color: #333;
+    color: white;
+}
+.postTitle {
+    font-size: 24px;
 }
