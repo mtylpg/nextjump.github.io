@@ -5,6 +5,7 @@ author: Charlie
 date: 2013-08-26 10:44:00
 category: ceeoffice
 twitter: charlieykim
+picture: charlie.jpg
 ---
 
  There's a common notion that “people join companies but leave managers”.

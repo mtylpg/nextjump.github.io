@@ -5,6 +5,7 @@ author: Charlie
 date: 2013-08-12 9:38:00
 category: ceeoffice
 twitter: charlieykim
+picture: charlie.jpg
 ---
 
 This post is a follow-up from last week’s CEO Office blog post: How to Kill Your Internal Terrorist

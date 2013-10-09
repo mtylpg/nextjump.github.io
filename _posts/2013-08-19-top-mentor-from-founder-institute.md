@@ -5,6 +5,7 @@ author: Charlie
 date: 2013-08-19 11:51:00
 category: ceooffice
 twitter: charlieykim
+picture: charlie.jpg
 ---
 
 *Charlie first became involved in the NYC Founder Institute Chapter in 2011 and has since been consecutively voted a top mentor in the program. The Founder Institute is the World’s Largest Startup Accelerator, helping founders around the world build enduring technology companies. Charlie, always interested in helping entrepreneurs and the NYC tech community, has found it as a way to scale mentorship and help multiple mentees at once. Below are some of the top lessons Charlie has learned during his tenure as an entrepreneur, Founder & CEO and shared with the Founder Institute.*

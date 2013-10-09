@@ -5,6 +5,7 @@ author: Meghan
 date: 2013-09-09 16:26:00
 category: ceooffice
 twitter: MeghanMess
+picture: meghan_m.jpg
 ---
 
 In the recent past I have invited increasingly more Next Jump visitors to take part in our “culture tour,” literally touring the office to view the hundreds of signs, posters and photos that illustrate the way we invest in our culture. I receive the same two questions over and over which has naturally lead me answer them better over time. I want to share the answers with you. The diagram below illustrates the point I’m about to make.

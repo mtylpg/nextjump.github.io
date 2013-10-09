@@ -4,6 +4,7 @@ title: NxJ’s Next Top Breakfast – Bonding Through Food
 author: Andreas
 date: 2013-08-26 10:30:00
 category: general
+picture: andreas_w.jpg
 ---
 
 When it comes to developing teamwork and team bonding, it doesn’t have to be complicated. Since the start of time, food has been a communal activity, where people laugh, joke and bond over a good meal. It’s only recently that busy lives and hectic workdays have meant that people spend less time eating together. Next Jump has developed a very simple way to build teamwork through this innate love of food, as well as to develop character ‘muscles’ that are then transferrable to the everyday workday.

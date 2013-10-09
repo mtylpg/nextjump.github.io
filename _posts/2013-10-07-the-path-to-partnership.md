@@ -3,6 +3,7 @@ layout: post
 title: The Path to Partnership
 subtitle: Workplace synergies between profit and non-profit
 author: Jill
+picture: jill_k.jpg
 ---
 
 In 1998 I was offered the first-ever sales position at Next Jump. My then boyfriend, Greg Kunkel, and NxJ Founder Charlie Kim, had gone to high school together, and Greg had joined Charlie in working out of their apartment on this startup venture. At the time, NxJ “sales” meant walking door to door in Somerville, Massachusetts, asking business owners to offer discounts coupons for their products (“A dozen buffalo wings at just half the price!”). The discounts were offered in small books that were most commonly distributed to local college students – often with the student phone list tucked somewhere in the middle of hundreds of these rip-away coupons. The company made little to no money. But there was passion and fire and vision.

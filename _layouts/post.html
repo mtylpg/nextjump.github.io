@@ -13,6 +13,9 @@ layout: default
     <p class="meta">{{ page.date | date_to_string }}</p>
 
     <div class="post">
+        {% if page.previousBlog %}
+        <p><em>[ This post was previously published on <a href="{{page.previousBlogLink}}">{{ page.previousBlog }}</a> ]</em></p>
+        {% endif %}
         {{ content }}
     </div>
     {% if page.twitter %}

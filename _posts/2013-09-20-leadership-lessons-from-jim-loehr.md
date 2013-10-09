@@ -4,12 +4,13 @@ title: How to Find Happiness
 subtitle: |
     Leadership Lessons From the #1 Coach, Jim Loehr
 date: 2013-09-20 17:32:00
-author: Charlie Kim
+author: Charlie
 category: ceooffice
 twitter: charlieykim
+picture: charlie.jpg
+previousBlog: The Huffington Post
+previousBlogLink: http://www.huffingtonpost.com/charlie-kim/leadership-lessons-from-t_3_b_3934611.html
 ---
-
-\[ This article was previously published on the [Huffington Post](http://www.huffingtonpost.com/charlie-kim/leadership-lessons-from-t_3_b_3934611.html) \]
 
 I’ve had the fortune of meeting, spending time with, getting to know and becoming close friends with some of the world’s most “elite athletes” \[individuals who are the best in their respective disciplines: behaviorial psychologists, chess players, professors, public speakers, authors, philanthropists, business people\]. 
 

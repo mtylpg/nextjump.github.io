@@ -11,13 +11,15 @@ title: NxJ Blog
         {% for post in site.posts %}
         <div class="post">
             <a class="postTitle" href="{{ post.url }}">{{ post.title }}</a>
-            <div class="imageBox">
-                <img src="/images/{{ post.picture }}">
-                <div class="imageSub"> By {{ post.author }} </div>
-            </div>
-            <div class="postPreview">
-                <span class="date">{{ post.date | date_to_string }}</span>
-                <div class="excerpt">{{ post.excerpt }}</div>
+            <div>
+                <div class="imageBox">
+                    <img src="/images/{{ post.picture }}">
+                    <div class="imageSub"> By {{ post.author }} </div>
+                </div>
+                <div class="postPreview">
+                    <span class="date">{{ post.date | date_to_string }}</span>
+                    <div class="excerpt">{{ post.excerpt }}</div>
+                </div>
             </div>
             <div style="clear:both;"></div>
         </div>

@@ -4,9 +4,10 @@ title: Happy Labor Day — and 3 Ways to Celebrate our People Year Round
 author: David
 authorTitle: Captain, Human Capital Engineering (HCE)
 date: 2013-09-03 12:01:00
+picture: david_m.jpg
+previousBlog: David's professional blog
+previousBlogLink: http://davidmarquet.com/2013/09/happy-labor-day-and-3-ways-to-celebrate-our-people-year-round/
 ---
-
-This post is from David Marquet’s professional blog at davidmarquet.com. See the original post [here](http://davidmarquet.com/2013/09/happy-labor-day-and-3-ways-to-celebrate-our-people-year-round/).
 
 Labor Day was initially established in the 1880s to celebrate the contributions of the nation’s workers and to bring attention to labor conditions.  While the nature of work has changed since the Industrial Revolution, people are just as important as always.
 
