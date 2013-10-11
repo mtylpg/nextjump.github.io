@@ -7,7 +7,6 @@ categories: ceooffice
 picture: charlie.jpg
 previousBlog: The Huffington Post
 previousBlogLink: http://www.huffingtonpost.com/charlie-kim/most-common-reason-why-we_b_4063615.html
-date: 2013-10-09
 tags:
 - ceooffice
 ---
