@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Most Common Reason Why We Don't Give
+title: Most Common Reason Why We Don't Give...
 author: Charlie
 twitter: charlieykim
 categories: ceooffice
