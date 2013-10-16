@@ -12,7 +12,23 @@ title: NxJ Blog
 
     <p>The code for this blog is <a href="https://github.com/Next-Jump-Blog">open source</a> on GitHub, feel free to submit a pull request or report an issue</p>
 
-    <p><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fnext-jump-blog.github.io%2F&amp;width=275&amp;height=80&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:275px; height:80px;" allowTransparency="true"></iframe></p>
+    <p>
+        <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fnext-jump-blog.github.io%2F&amp;width=275&amp;height=80&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=false"
+        scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:275px; height:80px;"
+        allowTransparency="true"></iframe>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://next-jump-blog.github.io/"
+            data-text="The Next Jump blog" data-via="nextjump">Tweet</a>
+        <script>
+            !function(d,s,id){
+                var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+                if(!d.getElementById(id)){
+                    js=d.createElement(s);js.id=id;
+                    js.src=p+'://platform.twitter.com/widgets.js';
+                    fjs.parentNode.insertBefore(js,fjs);
+                }
+            }(document, 'script', 'twitter-wjs');
+        </script>
+    </p>
 
     <h3 style="width: 200px; margin: 0 auto;">Recent Posts</h3>
     <div class="posts">
@@ -34,3 +50,9 @@ title: NxJ Blog
         {% endfor %}
     </div>
 </section>
+
+<style>
+    #twitter-widget-0 {
+        position: absolute;
+    }
+</style>
