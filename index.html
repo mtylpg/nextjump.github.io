@@ -4,10 +4,13 @@ title: NxJ Blog
 ---
 
 <section id="main_content" class="inner">
-    <h3>
-    <a name="were-making-the-move" class="anchor" href="#were-making-the-move"><span class="octicon octicon-link"></span></a>Recent Posts</h3>
 
-    <ul class="posts">
+<p>The Next Jump blog is a look into the culture of a company that believes corporations can change the world. See this <a href="http://blog.nextjump.com/post/35653353574/letter-from-charlie-kim-founder-ceo">Letter from our CEO</a> to learn about our &lsquo;WHY&rsquo;, and our vision of doing the little things that allow others do the great things they are meant to do.</p>
+
+<p>Our blog was launched in the hope that we can inspire thoughts, ideas and action. If you would like to get in touch, we would love to hear from you. Please contact us at <a href="mailto:teamblog@nextjump.com">teamblog@nextjump.com</a>.</p>
+
+    <h3 style="width: 200px; margin: 0 auto;">Recent Posts</h3>
+    <div class="posts">
         {% for post in site.posts %}
         <div class="post">
             <a class="postTitle" href="{{ post.url }}">{{ post.title }}</a>
@@ -24,5 +27,5 @@ title: NxJ Blog
             <div style="clear:both;"></div>
         </div>
         {% endfor %}
-    </ul>
+    </div>
 </section>
