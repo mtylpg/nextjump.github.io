@@ -279,12 +279,27 @@ Full-Width Styles
 }
 
 #header_wrap {
+  height: 175px;
   background: #212121;
+  background-size: cover;
+  background-position-x: 50%;
+  background-repeat: no-repeat;
+  background-image: url("/images/header.png");
+}
+#header_wrap_old{
   background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
+}
+
+#header_gradient{
+  background-image: -webkit-gradient( 
+    linear, left top, right bottom, 
+    from(rgba(0,0,0,1)), 
+    to(rgba(80,80,80,0)), 
+    color-stop(1.3,#000) );
 }
 
 #header_wrap .inner {
@@ -442,9 +457,16 @@ My Styles
     font-weight: bold;
 }
 .spacer {
-    width: 23%;
+    width: 18%;
+    font-size: 1.2em;
     display: inline-block;
-    text-align: center;
+    text-align: left;
+}
+.spacer a{
+  color:#ddd;
+}
+.spacer a:hover{
+  color: #f17006;
 }
 .bar {
     height: 3px;
@@ -453,10 +475,9 @@ My Styles
     background-color: #f17006;
 }
 #project_title.mainTitle {
-    color: #f17006;
+    color: #fff;
     width: 300px;
-    margin: 0 auto;
-    text-align: center;
+    text-align: left;
     margin-bottom: 20px;
 }
 .imageBox {
