@@ -3,11 +3,10 @@ layout: post
 title: PRODUCT HACKING – 5 lessons learned
 author: Tom
 twitter: Thom_Fuller
+excerpt: Leading up to the event I gave a short presentation of Product Hack tips. The top lessons learned from our Pods (teams of 3 to 5 engineers) about how to quickly take an idea from concept to demonstrable experience.
 category: engineering
 picture: tom_f.jpg
 ---
-
-@nextjump just ran our annual hackathon this weekend. Check it out at #nxjhacks.
 
 Leading up to the event I gave a short presentation of Product Hack tips. The top lessons learned from our Pods (teams of 3 to 5 engineers) about how to quickly take an idea from concept to demonstrable experience.
 
@@ -42,4 +41,3 @@ You can fake the backend. You cannot fake actually thinking about a customer pro
 This IS NOT VISUAL design … it’s about creating elegant experiences by getting the experience right. The right steps, data hierarchy, copy, hero images, etc. The minimal bits that will communicate the essence of the experience.
 
 It cannot be ugly (the internet is visual medium and design matters). But at this stage, you can craft the essence of the product without visual design help. It’s the core DNA of the product that you are creating. This requires tremendous love & care – and cannot be outsource to a visual designer.
-
