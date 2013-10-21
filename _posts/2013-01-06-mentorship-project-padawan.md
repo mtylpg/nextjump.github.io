@@ -2,7 +2,7 @@
 layout: post
 title: 'Mentorship: Project Padawan'
 author: Rebecca
-picture: rebecca_s.jpg
+picture: rebecca_s.png
 authortitle: Developer/Designer, Web Applications
 category: culture
 tags:

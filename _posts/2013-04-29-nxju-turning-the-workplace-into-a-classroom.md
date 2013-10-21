@@ -2,7 +2,7 @@
 layout: post
 title: 'NxJU: Turning the Workplace into a Classroom'
 author: Caleb
-picture: caleb_t.jpg
+picture: caleb_t.gif
 authortitle: Software Engineer II
 category: culture
 tags:

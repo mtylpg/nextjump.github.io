@@ -2,7 +2,7 @@
 layout: post
 title: Moving into Next Jump
 author: Megan
-picture: megan_s.jpg
+picture: megan_s.png
 authortitle: Development Director, Summer Search NYC
 category: culture
 tags:
