@@ -4,6 +4,7 @@ title: School Trip with Laura
 author: Laura
 picture: laura_r.jpg
 authortitle: Director, Merchant Services
+category: culture
 tags:
 - betteryou
 - oo.com

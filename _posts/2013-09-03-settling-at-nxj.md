@@ -3,7 +3,7 @@ layout: post
 title: "Settling in at Next Jump"
 author: Lauren
 position: Summer Search Associate
-category: general
+category: culture
 picture: lauren.png
 ---
 

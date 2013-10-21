@@ -4,6 +4,7 @@ title: 'CEO Talks: Give and Take with Adam Grant'
 author: Ian
 picture: ian_m.jpg
 authorittle: Software Engineer
+category: culture
 tags:
 - teaching
 - university

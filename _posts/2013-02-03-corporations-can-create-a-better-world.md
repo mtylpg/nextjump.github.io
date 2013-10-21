@@ -4,6 +4,7 @@ title: Corporations can create a better world
 author: Nooren
 picture: nooren_k.jpg
 authortitle: Account Manager
+category: culture
 tags:
 - betteryou
 - outreach

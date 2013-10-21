@@ -4,6 +4,7 @@ title: 'Next Jump University: It Starts With Why'
 author: Peter
 picture: peter_w.jpg
 authortitle: Senior Director fo Quality Assurance
+category: culture
 tags:
 - betterme
 - why

@@ -4,6 +4,7 @@ title: Super Saturday
 author: Emma
 picture: emma_d.jpg
 authortitle: Director of Customer Success
+category: culture
 tags:
 - BetterYou
 - hiring

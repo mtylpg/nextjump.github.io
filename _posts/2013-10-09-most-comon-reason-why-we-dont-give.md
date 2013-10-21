@@ -3,7 +3,7 @@ layout: post
 title: Most Common Reason Why We Don't Give...
 author: Charlie
 twitter: charlieykim
-categories: ceooffice
+category: ceooffice
 picture: charlie.jpg
 previousBlog: The Huffington Post
 previousBlogLink: http://www.huffingtonpost.com/charlie-kim/most-common-reason-why-we_b_4063615.html

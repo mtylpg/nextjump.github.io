@@ -5,6 +5,7 @@ author: David
 authorTitle: Captain, Human Capital Engineering (HCE)
 date: 2013-09-03 12:01:00
 picture: david_m.jpg
+category: culture
 previousBlog: David's professional blog
 previousBlogLink: http://davidmarquet.com/2013/09/happy-labor-day-and-3-ways-to-celebrate-our-people-year-round/
 ---

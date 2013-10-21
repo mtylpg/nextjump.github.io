@@ -3,7 +3,7 @@ layout: post
 title: Don’t Shop for a Job. Shop for a Manager
 author: Charlie
 date: 2013-08-26 10:44:00
-category: ceeoffice
+category: ceooffice
 twitter: charlieykim
 picture: charlie.jpg
 tags:

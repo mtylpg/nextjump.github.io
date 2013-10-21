@@ -4,6 +4,7 @@ title: 'First Week at NxJ: Settling into the Family'
 author: Vanessa
 picture: vanessa_m.jpg
 authortitle: Staff Accountant
+category: culture
 tags:
 - betterme
 - Public Speaking

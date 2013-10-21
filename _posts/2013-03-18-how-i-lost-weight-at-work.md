@@ -4,6 +4,7 @@ title: How I lost weight at work
 author: Kate
 picture: kate_w.jpg
 authortitle: Software Engineer
+category: culture
 tags:
 - betterme
 - fitness

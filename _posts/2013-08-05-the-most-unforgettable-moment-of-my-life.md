@@ -3,7 +3,7 @@ layout: post
 title: The Most Unforgettable Moment of my Life
 author: Gowri
 authorTitle: Software Engineer
-categories: general
+categories: culture
 picture: gowri_l.png
 tags:
 - BetterYou

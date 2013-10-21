@@ -4,6 +4,7 @@ title: 'Mentorship: Project Padawan'
 author: Rebecca
 picture: rebecca_s.jpg
 authortitle: Developer/Designer, Web Applications
+category: culture
 tags:
 - betterme
 - mentorship

@@ -4,6 +4,7 @@ title: The Avengers Initiative
 author: Mike
 picture: mike.jpg
 authortitle: UK Director of Marketing
+category: culture
 tags:
 - recognition
 - selflessness

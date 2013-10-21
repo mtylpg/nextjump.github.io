@@ -4,6 +4,7 @@ title: The Dev Poets Society
 author: Kenny
 picture: kenny_h.jpg
 authortitle: Software Engineer II
+category: culture
 tags: 
 ---
 

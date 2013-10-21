@@ -4,6 +4,7 @@ title: The Fitness Challenge
 author: Emily
 picture: emily_c.jpg
 authortitle: Software Engineer Lead
+category: culture
 tags:
 - betterme
 - fitness

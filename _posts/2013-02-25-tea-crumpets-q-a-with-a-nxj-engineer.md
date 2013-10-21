@@ -4,6 +4,7 @@ title: Tea & Crumpets (Q&A) With a NxJ Engineer
 author: Ezra
 picture: ezra_v.jpg
 authortitle: Software Engineer
+category: culture
 tags: 
 ---
 

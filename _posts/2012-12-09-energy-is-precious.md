@@ -4,6 +4,7 @@ title: Energy Is Precious
 author: Marissa
 picture: marissa.jpg
 authortitle: Director of Wellness
+category: culture
 tags:
 - betterme
 - energy

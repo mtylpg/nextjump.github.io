@@ -4,7 +4,7 @@ title: NxJ’s Next Top Breakfast – Bonding Through Food
 author: Andreas
 position: Software Engineer
 date: 2013-08-26 10:30:00
-category: general
+category: culture
 picture: andreas_w.jpg
 tags:
 - betterme

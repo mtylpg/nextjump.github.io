@@ -4,6 +4,7 @@ title: Moving into Next Jump
 author: Megan
 picture: megan_s.jpg
 authortitle: Development Director, Summer Search NYC
+category: culture
 tags:
 - BetterYou
 - education

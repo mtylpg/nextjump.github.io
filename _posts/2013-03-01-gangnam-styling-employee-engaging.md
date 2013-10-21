@@ -3,6 +3,7 @@ layout: post
 title: Gangnam Styling & Employee Engaging
 author: Nooren and Anuj
 authortitle: Dance Captains, UK Office
+category: culture
 picture: nooreen_anuj.jpg
 tags:
 - BetterYou

@@ -3,6 +3,7 @@ layout: post
 title: 'The Intern Experience: Learning to Fail'
 author: Nick
 picture: nick_w.jpg
+category: culture
 authortitle: Business Development Intern
 tags:
 - betterme

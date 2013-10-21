@@ -4,6 +4,7 @@ title: Vendor Appreciation Day
 author: Nadia
 authortitle: Director of Office Management
 picture: nadia_b.jpg
+category: culture
 tags:
 - betteryou
 ---

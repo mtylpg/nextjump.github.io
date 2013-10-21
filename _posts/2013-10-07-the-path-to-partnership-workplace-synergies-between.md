@@ -5,6 +5,7 @@ subtitle: Workplace synergies between profit and non-profit
 author: Jill
 position: Summer Search Grants Specialist
 picture: jill_k.jpg
+category: culture
 tags:
 - nonprofit
 ---

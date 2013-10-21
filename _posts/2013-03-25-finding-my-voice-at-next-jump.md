@@ -4,6 +4,7 @@ title: Finding My Voice at Next Jump
 author: Joe
 picture: joe_r.jpg
 authortitle: Software Engineer
+category: culture
 tags:
 - betterme
 - public speaking

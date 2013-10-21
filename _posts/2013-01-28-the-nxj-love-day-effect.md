@@ -4,6 +4,7 @@ title: The NxJ Love Day Effect
 author: Rawle
 picture: rawle_s.png
 authortitle: Senior IT Associate
+category: culture
 tags:
 - BetterYou
 - Love

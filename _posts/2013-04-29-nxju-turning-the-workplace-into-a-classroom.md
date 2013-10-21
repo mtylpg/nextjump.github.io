@@ -4,6 +4,7 @@ title: 'NxJU: Turning the Workplace into a Classroom'
 author: Caleb
 picture: caleb_t.jpg
 authortitle: Software Engineer II
+category: culture
 tags:
 - BetterYou
 - Public Speaking

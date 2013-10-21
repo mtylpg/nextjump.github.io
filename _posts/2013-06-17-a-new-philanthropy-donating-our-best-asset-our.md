@@ -4,6 +4,7 @@ title: 'A New Philanthropy – Donating Our Best Asset: Our People'
 author: Henry
 picture: henry_w.jpg
 authortitle: Software Engineer
+category: culture
 tags:
 - BetterYou
 ---

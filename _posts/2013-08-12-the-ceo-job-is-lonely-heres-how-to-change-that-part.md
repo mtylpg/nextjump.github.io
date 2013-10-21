@@ -3,7 +3,7 @@ layout: post
 title: The CEO job is lonely - here's how to change that (Part 2)
 author: Charlie
 date: 2013-08-12 9:38:00
-category: ceeoffice
+category: ceooffice
 twitter: charlieykim
 picture: charlie.jpg
 tags:

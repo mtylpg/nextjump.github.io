@@ -1,10 +1,10 @@
 ---
 layout: post
-categories: ceooffice
 title: What It Means to Become Independent
 author: Charlie
 twitter: charlieykim
 picture: charlie.jpg
+category: ceooffice
 tags:
 - ceopost
 ---
