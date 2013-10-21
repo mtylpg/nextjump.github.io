@@ -2,7 +2,7 @@
 layout: post
 title: The NxJ Love Day Effect
 author: Rawle
-picture: rawle_s.png
+picture: rawle_s.jpg
 authortitle: Senior IT Associate
 category: culture
 tags:

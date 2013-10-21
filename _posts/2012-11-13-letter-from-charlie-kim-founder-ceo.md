@@ -3,7 +3,7 @@ layout: post
 title: Letter From Charlie Kim, Founder & CEO
 author: Charlie
 category: ceooffice
-picture: charlie_k.jpg
+picture: charlie.jpg
 twitter: charlieykim
 excerpt: I started this company with one single purpose, to do many little things that would allow others to do the GREAT things they are meant to do.
 tags:

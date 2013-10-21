@@ -2,7 +2,7 @@
 layout: post
 title: Energy Is Precious
 author: Marissa
-picture: marissa.jpg
+picture: marissa_b.jpg
 authortitle: Director of Wellness
 category: culture
 tags:
