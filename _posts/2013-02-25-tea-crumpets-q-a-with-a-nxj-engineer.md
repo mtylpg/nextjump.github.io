@@ -2,7 +2,7 @@
 layout: post
 title: Tea & Crumpets (Q&A) With a NxJ Engineer
 author: Ezra
-author: ezra_v.jpg
+picture: ezra_v.jpg
 authortitle: Software Engineer
 tags: 
 ---
