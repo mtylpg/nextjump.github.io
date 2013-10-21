@@ -4,6 +4,7 @@ title: 'Flupocalypse: Next Jump Flu Clinic'
 author: Jon
 picture: jon_c.jpg
 authortitle: Software Engineer
+excerpt: I have never gotten a flu shot before. At least, I have never actively sought out a flu shot when left to my own devices. I’m sure my mother tricked me into getting flu shots when I was a child, but ever since I moved out and was able to choose whether to be or not to be stuck with needles, I chose the latter. In college, I simply never got sick. I used to brag that I had never been to the school health center before. There was obviously no need for a flu shot when I possessed a superior immune system. After graduation, I moved to New York City and my superior immune system was put to the test.
 tags:
 - betteryou
 - health
