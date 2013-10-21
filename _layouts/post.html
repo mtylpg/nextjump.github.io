@@ -6,11 +6,7 @@ layout: default
     {% if page.subtitle %}
     <h3>{{ page.subtitle }}</h3>
     {% endif %}
-    {% if page.picture %}
-        <img src="/images/{{ page.picture }}" style="max-width: 100px;">
-    {% endif %}
     <h4>By {{ page.author }}</h4>
-    <p class="meta">{{ page.date | date_to_string }}</p>
 
     <div class="post">
         {% if page.previousBlog %}
@@ -18,12 +14,29 @@ layout: default
         {% endif %}
         {{ content }}
     </div>
-    {% if page.twitter %}
-        <div class="twitter">
-            <a href="https://twitter.com/{{ page.twitter }}"><span class="handle">@{{ page.twitter }}</span></a>
+
+    <hr>
+    <div class="meta">
+        <div class="picture">
+            {% if page.picture %}
+                <img src="/images/{{ page.picture }}" style="max-width: 100px;">
+            {% endif %}
         </div>
-        <div style="clear: both;"></div>
-    {% endif %}
+        <div class="text">
+            <div>Posted under <a href="/{{ page.category }}.html">{{ page.category }}</a> on {{ page.date | date_to_string }}</div>
+            <p>
+                By {{ page.author }}
+            </p>
+            {% if page.authorTitle %}
+            <p>{{ page.authorTitle }}</p>
+            {% endif %}
+            <div>
+
+            {% if page.twitter %}
+            <p>Follow {{ page.author }} on Twitter <a href="https://twitter.com/{{ page.twitter }}"><span class="handle">@{{ page.twitter }}</span></a></p>
+            {% endif %}
+        </div>
+    </div>
     <div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */

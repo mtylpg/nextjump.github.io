@@ -523,3 +523,12 @@ My Styles
     float: left;
     margin-right: 10px;
 }
+
+.meta .picture {
+    margin: 10px;
+    float: left;
+}
+.meta .text {
+    margin: 10px;
+    float: left;
+}
