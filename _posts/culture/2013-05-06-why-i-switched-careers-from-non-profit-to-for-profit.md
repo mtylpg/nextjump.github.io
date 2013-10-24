@@ -3,6 +3,7 @@ layout: post
 title: 'Why I Switched Careers: From Non-profit to For-Profit'
 author: Breea
 picture: breea_l.jpg
+category: culture
 authortitle: Customer Success Associate
 tags:
 - betterme
