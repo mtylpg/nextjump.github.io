@@ -21,7 +21,7 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="/stylesheets/stylesheet.css">
 
-    <title>Next-jump-blog.github.io</title>
+    <title>Next Jump</title>
   </head>
 
   <body>
@@ -31,7 +31,12 @@
       <div id="header_gradient">
         <header class="inner">
           <!-- hacky layout, fine tune this when you get a chance -->
-          <h1 id="project_title" class="mainTitle">Next Jump</h1>
+          <h1 id="project_title" class="mainTitle">
+              Next Jump
+              {% if page.subtitle %}
+              : {{ page.subtitle }}
+              {% endif %}
+          </h1>
           <nav>
               <span class="spacer"><a href="/">Home</a></span>
               <span class="spacer"><a href="/culture.html">Our Culture</a></span>
