@@ -8,20 +8,7 @@ title: NxJ Blog
     <p>See more of Charlie&lsquo;s writing on the <a href="http://www.huffingtonpost.com/charlie-kim/">Huffington Post</a></p>
     <div  class="posts">
         {% for post in site.categories.ceooffice %}
-        <div class="post">
-            <a class="postTitle" href="{{ post.url }}">{{ post.title }}</a>
-            <div>
-                <div class="imageBox">
-                    <div class="authorImage" style="background-image:url('/images/{{ post.picture }}')"></div>
-                    <div class="imageSub"> By {{ post.author }} </div>
-                </div>
-                <div class="postPreview">
-                    <span class="date">{{ post.date | date_to_string }}</span>
-                    <div class="excerpt">{{ post.excerpt }}</div>
-                </div>
-            </div>
-            <div style="clear:both;"></div>
-        </div>
+            {% include postPreview.html %}
         {% endfor %}
     </div >
 </section>

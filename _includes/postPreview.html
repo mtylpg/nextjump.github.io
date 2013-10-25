@@ -1,0 +1,17 @@
+<div class="post">
+    <a class="postTitle" href="{{ post.url }}">{{ post.title }}</a>
+    <div>
+        <div class="imageBox">
+            <div class="authorImage" style="background-image:url('/images/{{ post.picture }}')"></div>
+            <div class="imageSub"> By {{ post.author }} </div>
+        </div>
+        <div class="postPreview">
+            <div class="excerpt">{{ post.excerpt }}</div>
+            <div class="meta">
+                <span class="date">Posted on {{ post.date | date_to_string }}</span>
+                <span class="readMore"><a href="{{ post.url }}">Read More</a></span>
+            </div>
+        </div>
+    </div>
+    <div style="clear:both;"></div>
+</div>

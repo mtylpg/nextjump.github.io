@@ -3,7 +3,6 @@ layout: default
 title: NxJ Blog
 ---
 
-
 <section id="main_content" class="inner">
     <p>The Next Jump blog is a look into the culture of a company that believes corporations can change the world. See this <a href="http://next-jump-blog.github.io/ceooffice/2012/11/13/letter-from-charlie-kim-founder-ceo.html">Letter from our CEO</a> to learn about our &lsquo;WHY&rsquo;, and our vision of doing the little things that allow others do the great things they are meant to do.</p>
 
@@ -30,60 +29,10 @@ title: NxJ Blog
     <h3 style="width: 200px; margin: 0 auto;">Recent Posts</h3>
     <div class="posts">
         {% for post in paginator.posts %}
-        <div class="post">
-            <a class="postTitle" href="{{ post.url }}">{{ post.title }}</a>
-            <div>
-                <div class="imageBox">
-                    <div class="authorImage" style="background-image:url('/images/{{ post.picture }}')"></div>
-                    <div class="imageSub"> By {{ post.author }} </div>
-                </div>
-                <div class="postPreview">
-                    <div class="excerpt">{{ post.excerpt }}</div>
-                    <div class="meta">
-                        <span class="date">Posted on {{ post.date | date_to_string }}</span>
-                        <span class="readMore"><a href="{{ post.url }}">Read More</a></span>
-                    </div>
-                </div>
-            </div>
-            <div style="clear:both;"></div>
-        </div>
+            {% include postPreview.html %}
         {% endfor %}
 
-
-        <div class="pagination">
-            <ul>
-                {% if paginator.previous_page %}
-                    {% if paginator.previous_page == 1 %}
-                        <li><a href="/">Prev</a></li>
-                    {% else %}
-                        <li><a href="/page{{ paginator.previous_page }}">Prev</a></li>
-                    {% endif %}
-                {% else %}
-                    <li><span class="disabled">Prev</span></li>
-                {% endif %}
-
-                {% if paginator.page == 1 %}
-                    <li><span class="active">1</span></li>
-                {% else %}
-                    <li><a href="/">1</a></li>
-                {% endif %}
-
-                {% for count in (2..paginator.total_pages) %}
-                    {% if count == paginator.page %}
-                        <li><span class="active">{{ count }}</span></li>
-                    {% else %}
-                        <li><a href="/page{{ count }}">{{ count }}</a></li>
-                    {% endif %}
-                {% endfor %}
-
-                {% if paginator.next_page %}
-                    <li><a href="/page{{ paginator.next_page }}">Next</a></li>
-                {% else %}
-                    <li><span class="disabled">Next</span></li>
-                {% endif %}
-            </ul>
-        </div>
-
+        {% include pagination.html %}
     </div>
 </section>
 
