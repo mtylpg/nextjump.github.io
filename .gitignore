@@ -6,3 +6,6 @@ _site
 
 #silly macbook
 .DS_Store
+
+*.swp
+.gitignore
