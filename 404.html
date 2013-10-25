@@ -4,12 +4,17 @@ title: Oh No!
 ---
 
 <section id="main_content" class="inner">
-    <p>Hello mon frère</p>
-    <p>Seems you are lost, I&rsquo;m so sorry to report.</p>
+    <h1 class="mega">404</h1>
+    <h2>Hello my friend, it seems you are lost. Sorry about that. <a href="/">Wanna go home?</a></h2>
     <div id="redirectNotice" style="display:none;">
-        <p>However I have good news! Our blog bot has decided that you were looking for one of the
-        URLs we used on our old domain, so you&rsquo;re being redirected! So exciting!</p>
-        <p>Please be patient, it&rsquo;s a five second pause so you don&rsquo;t get all discombobulated.</p>
+        <p>Good news though! Our blog elves have detected that you were attempting to reach one of
+        the URLs from our old domain. They&rsquo;re hard at work as we speak preparing a redirect.
+        Please sit back and enjoy the ride.</p>
+        <p>Or stop a while and browse the list of articles. It&rsquo;s a free country.</p>
+        <div class="spacer_50"></div>
+        <div id="timeToRedirect" class="float">5s</div>
+        <div id="stopCountdown" class="float">Click Me</div>
+        <div class="clear"></div>
     </div>
 </section>
 
@@ -19,10 +24,34 @@ title: Oh No!
     linkMap["{{ post.oldLink }}"] = "{{ post.url }}";
     {% endfor %}
 
+    // replace this clearing the timeout
+    var btn = document.getElementById('stopCountdown');
+    btn.addEventListener('click', function(e){
+        btn.innerHTML = 'lol';
+    });
+
+    var timer = null;
+    var countdown = function( clockID, callback ) {
+        var seconds = 5;
+        var clock = document.getElementById(clockID);
+        var tick = function(){
+            clock.innerHTML = seconds + 's';
+            if (seconds > 0) {
+                seconds -= 1;
+                timer = setTimeout(tick, 1000);
+            } else {
+                callback();
+            }
+        };
+        timer = setTimeout(tick, 1000);
+    };
+
+    // if (true) {
     if (location.pathname in linkMap) {
         document.getElementById("redirectNotice").style.display = 'block';
-        setTimeout(function() {
+        countdown('timeToRedirect', function(){
             window.location = linkMap[location.pathname];
-        }, 5000);
+        });
     }
+    
 </script>
