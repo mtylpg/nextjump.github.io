@@ -499,6 +499,9 @@ My Styles
     height: 100px;
     top: 0;
 }
+.post {
+    margin-bottom: 40px;
+}
 .postPreview .date {
     font-style: italic;
 }
@@ -530,4 +533,10 @@ My Styles
 .meta .text {
     margin: 10px;
     float: left;
+}
+.postPreview .readMore {
+    font-size: 20px;
+}
+.postPreview .readMore {
+    float: right;
 }

@@ -9,8 +9,6 @@ title: NxJ Blog
 
     <p>Our blog is split into different sections: our culture, engineering and posts from our CEO Office. All posts are written in the hope that we can inspire thoughts, ideas and action. If you would like to get in touch, we would love to hear from you. Please contact us at <a href="mailto:teamblog@nextjump.com">teamblog@nextjump.com</a>.</p>
 
-    <p>The code for this blog is <a href="https://github.com/Next-Jump-Blog">open source</a> on GitHub, feel free to submit a pull request or report an issue</p>
-
     <p>
         <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fnext-jump-blog.github.io%2F&amp;width=275&amp;height=20&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=false"
         scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:275px; height:20px;"
@@ -40,8 +38,11 @@ title: NxJ Blog
                     <div class="imageSub"> By {{ post.author }} </div>
                 </div>
                 <div class="postPreview">
-                    <span class="date">{{ post.date | date_to_string }}</span>
                     <div class="excerpt">{{ post.excerpt }}</div>
+                    <div class="meta">
+                        <span class="date">Posted on {{ post.date | date_to_string }}</span>
+                        <span class="readMore"><a href="{{ post.url }}">Read More</a></span>
+                    </div>
                 </div>
             </div>
             <div style="clear:both;"></div>
