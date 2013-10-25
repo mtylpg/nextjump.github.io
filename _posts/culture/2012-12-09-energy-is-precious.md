@@ -5,6 +5,7 @@ author: Marissa
 picture: marissa_b.jpg
 authortitle: Director of Wellness
 category: culture
+oldLink: /post/37593572589/energy-is-precious
 tags:
 - betterme
 - energy

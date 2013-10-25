@@ -5,6 +5,7 @@ author: Kenny
 picture: kenny_h.jpg
 authortitle: Software Engineer II
 category: culture
+oldLink: /post/43168817221/the-dev-poets-society
 tags: 
 ---
 

@@ -7,6 +7,7 @@ category: ceooffice
 picture: charlie.jpg
 previousBlog: The Huffington Post
 previousBlogLink: http://www.huffingtonpost.com/charlie-kim/most-common-reason-why-we_b_4063615.html
+oldLink: /post/63576705360/most-common-reason-why-we-dont-give
 tags:
 - ceooffice
 ---

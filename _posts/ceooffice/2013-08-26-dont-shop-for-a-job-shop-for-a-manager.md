@@ -6,6 +6,7 @@ date: 2013-08-26 10:44:00
 category: ceooffice
 twitter: charlieykim
 picture: charlie.jpg
+oldLink: /post/59397279380/dont-shop-for-a-job-shop-for-a-manager
 tags:
 - ceopost
 ---

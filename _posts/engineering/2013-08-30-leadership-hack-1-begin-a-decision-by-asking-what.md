@@ -2,6 +2,7 @@
 layout: post
 title: 'LEADERSHIP HACK #1:  begin a decision by asking “what do you see” not “what
   should we do”'
+oldLink: /post/59795522834/leadership-hack-1-begin-a-decision-by-asking-what
 author: Tom
 twitter: Thom_Fuller
 category: engineering

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'To Win: Need Army + Marines'
+oldLink: /post/59508118756/to-win-need-army-marines
 author: Tom
 twitter: Thom_Fuller
 category: engineering

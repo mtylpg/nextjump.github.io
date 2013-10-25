@@ -6,6 +6,7 @@ position: Software Engineer
 date: 2013-08-26 10:30:00
 category: culture
 picture: andreas_w.jpg
+oldLink: /post/59396511523/nxjs-next-top-breakfast-bonding-through-food
 tags:
 - betterme
 ---

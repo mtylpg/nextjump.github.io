@@ -6,6 +6,7 @@ author: Jill
 position: Summer Search Grants Specialist
 picture: jill_k.jpg
 category: culture
+oldLink: /post/63378766982/the-path-to-partnership-workplace-synergies-between
 tags:
 - nonprofit
 ---

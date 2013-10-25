@@ -5,6 +5,7 @@ author: Vanessa
 picture: vanessa_m.jpg
 authortitle: Staff Accountant
 category: culture
+oldLink: /post/49182197641/first-week-at-nxj-settling-into-the-family
 tags:
 - betterme
 - Public Speaking

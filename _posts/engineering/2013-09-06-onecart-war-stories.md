@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ONECart War Stories
+oldLink: /post/60488463797/onecart-war-stories
 author: Kalyan
 authorTitle: Software Engineering Manager
 category: engineering

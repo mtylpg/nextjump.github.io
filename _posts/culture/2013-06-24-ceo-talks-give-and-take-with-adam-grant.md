@@ -5,6 +5,7 @@ author: Ian
 picture: ian_m.jpg
 authorittle: Software Engineer
 category: culture
+oldLink: /post/53761996201/ceo-talks-give-and-take-with-adam-grant
 tags:
 - teaching
 - university

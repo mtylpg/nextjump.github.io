@@ -5,6 +5,7 @@ author: Caleb
 picture: caleb_t.gif
 authortitle: Software Engineer II
 category: culture
+oldLink: /post/49182142251/nxju-turning-the-workplace-into-a-classroom
 tags:
 - BetterYou
 - Public Speaking

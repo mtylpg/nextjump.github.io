@@ -6,6 +6,7 @@ picture: charlie.jpg
 authortitle: Founder and CEO, Next Jump
 category: ceooffice
 twitter: charlieykim
+oldLink: /post/55896569215/maslows-hierarchy-of-needs-updated
 tags:
 - betterme
 - betteryou

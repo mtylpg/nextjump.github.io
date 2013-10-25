@@ -5,6 +5,7 @@ author: Peter
 picture: peter_w.jpg
 authortitle: Senior Director fo Quality Assurance
 category: culture
+oldLink: /post/36372775679/next-jump-university-it-starts-with-why
 tags:
 - betterme
 - why

@@ -5,6 +5,7 @@ author: Charlie
 category: ceooffice
 twitter: CharlieYKim
 picture: charlie.jpg
+oldLink: /post/57112494674/how-to-kill-your-internal-terrorist-part-1
 tags:
 - ceopost
 - communication

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your Code is a Mess – Admit It
+oldLink: /post/55042782712/your-code-is-a-mess-admit-it
 author: Tom
 category: engineering
 picture: tom_f.jpg

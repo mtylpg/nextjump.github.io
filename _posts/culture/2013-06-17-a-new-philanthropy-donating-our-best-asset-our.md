@@ -5,6 +5,7 @@ author: Henry
 picture: henry_w.jpg
 authortitle: Software Engineer
 category: culture
+oldLink: /post/53197082305/a-new-philanthropy-donating-our-best-asset-our
 tags:
 - BetterYou
 ---

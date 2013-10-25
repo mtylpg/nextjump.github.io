@@ -5,6 +5,7 @@ author: Laura
 picture: laura_r.jpg
 authortitle: Director, Merchant Services
 category: culture
+oldLink: /post/35663236765/school-trip-with-laura
 tags:
 - betteryou
 - oo.com

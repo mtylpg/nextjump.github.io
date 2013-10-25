@@ -6,6 +6,7 @@ author: Charlie
 twitter: charlieykim
 picture: charlie.jpg
 authortitle: CEO and Founder, Next Jump
+oldLink: /post/54463584719/its-not-about-legacy-its-about-doing-the-right-thing
 tags:
 - ceopost
 - betterme

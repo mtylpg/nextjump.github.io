@@ -5,6 +5,7 @@ author: Ezra
 picture: ezra_v.jpg
 authortitle: Software Engineer
 category: culture
+oldLink: /post/43987981779/tea-crumpets-q-a-with-a-nxj-engineer
 tags: 
 ---
 

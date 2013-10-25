@@ -5,6 +5,7 @@ author: Charlie
 twitter: charlieykim
 picture: charlie.jpg
 category: ceooffice
+oldLink: /post/61124644652/what-it-means-to-become-independent
 tags:
 - ceopost
 ---

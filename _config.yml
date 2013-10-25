@@ -1,5 +1,6 @@
 
 paginate: 10
 pygments: true
+permalink: none
 
 githubAccount: next-jump-blog

@@ -5,6 +5,7 @@ author: Lauren
 position: Summer Search Associate
 category: culture
 picture: lauren.png
+oldLink: /post/60184141759/settling-in-at-next-jump
 ---
 
 It’s hard to believe that exactly two months ago, Summer Search packed up and moved on uptown to share space with Next Jump.  Our staff joked that there must be some kind of sorcery at play with an endless supply of professional development, fitness and (most importantly) beverage opportunities.

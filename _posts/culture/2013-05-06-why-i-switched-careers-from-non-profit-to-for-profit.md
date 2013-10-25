@@ -5,6 +5,7 @@ author: Breea
 picture: breea_l.jpg
 category: culture
 authortitle: Customer Success Associate
+oldLink: /post/49778109262/why-i-switched-careers-from-non-profit-to-for-profit
 tags:
 - betterme
 - not for profit

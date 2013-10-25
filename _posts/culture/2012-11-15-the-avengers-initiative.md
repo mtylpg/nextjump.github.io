@@ -4,6 +4,7 @@ title: The Avengers Initiative
 author: Mike
 picture: mike_w.jpg
 authortitle: UK Director of Marketing
+oldLink: /post/35814902953/the-avengers-initiative
 category: culture
 tags:
 - recognition

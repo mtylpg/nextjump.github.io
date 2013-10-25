@@ -8,6 +8,7 @@ picture: david_m.jpg
 category: culture
 previousBlog: David's professional blog
 previousBlogLink: http://davidmarquet.com/2013/09/happy-labor-day-and-3-ways-to-celebrate-our-people-year-round/
+oldLink: /post/60184152332/happy-labor-day-and-3-ways-to-celebrate-our-people
 ---
 
 Labor Day was initially established in the 1880s to celebrate the contributions of the nation’s workers and to bring attention to labor conditions.  While the nature of work has changed since the Industrial Revolution, people are just as important as always.

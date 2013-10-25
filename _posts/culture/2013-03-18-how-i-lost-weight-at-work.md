@@ -5,6 +5,7 @@ author: Kate
 picture: kate_w.jpg
 authortitle: Software Engineer
 category: culture
+oldLink: /post/45673725217/how-i-lost-weight-at-work
 tags:
 - betterme
 - fitness

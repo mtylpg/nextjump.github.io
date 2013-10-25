@@ -5,6 +5,7 @@ author: Joe
 picture: joe_r.jpg
 authortitle: Software Engineer
 category: culture
+oldLink: /post/46253197117/finding-my-voice-at-next-jump
 tags:
 - betterme
 - public speaking

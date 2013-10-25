@@ -5,6 +5,7 @@ author: Elise
 picture: elise_p.jpg
 authortitle: Executive Assistant to the CEO
 category: culture
+oldLink: /post/38489151430/a-next-jump-family-member-ties-the-knot
 tags: 
 ---
 Would you miss welcoming a brother or sister’s new baby? Would you miss your niece or nephew’s graduation? There are certain events in your family’s life that you simply wouldn’t miss regardless of deadlines, meetings, or conferences. A wedding definitely falls on that list. Would you miss a family member’s wedding – absolutely not.

@@ -6,6 +6,7 @@ category: ceooffice
 picture: charlie.jpg
 twitter: charlieykim
 excerpt: I started this company with one single purpose, to do many little things that would allow others to do the GREAT things they are meant to do.
+oldLink: /post/35653353574/letter-from-charlie-kim-founder-ceo
 tags:
 - betterme
 - betteryou

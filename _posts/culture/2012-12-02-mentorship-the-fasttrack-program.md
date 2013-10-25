@@ -5,6 +5,7 @@ author: Gautam
 picture: gautam_a.jpg
 authortitle: Software Engineering Manager
 category: culture
+oldLink: /post/37060103263/mentorship-the-fasttrack-program
 tags:
 - betterme
 - mentorship

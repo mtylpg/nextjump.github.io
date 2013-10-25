@@ -4,6 +4,7 @@ title: Donating Our Time to Help Others Save Theirs
 author: Stephanie
 category: culture
 picture: stephanie_g.png
+oldLink: /post/64116835007/donating-our-time-to-help-others-save-theirs
 tags:
 - CFAC
 - betterme

@@ -5,6 +5,7 @@ author: Nick
 picture: nick_w.jpg
 category: culture
 authortitle: Business Development Intern
+oldLink: /post/57434147583/the-intern-experience-learning-to-fail
 tags:
 - betterme
 ---

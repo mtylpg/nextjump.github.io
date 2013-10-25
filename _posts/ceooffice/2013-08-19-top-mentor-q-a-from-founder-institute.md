@@ -6,6 +6,7 @@ date: 2013-08-19 11:51:00
 category: ceooffice
 twitter: charlieykim
 picture: charlie.jpg
+oldLink: /post/58703252452/top-mentor-q-a-from-founder-institute
 tags:
 - ceopost
 - ceooffice
