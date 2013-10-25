@@ -106,7 +106,6 @@ footer p {
 
 a {
   text-decoration: none;
-  // color: #007edf;
   color: #f17006;
   text-shadow: none;
 
@@ -538,4 +537,48 @@ My Styles
 }
 .postPreview .readMore {
     float: right;
+}
+#timeToRedirect {
+    margin-left: 20px;
+    width: 100px;
+    text-align: center;
+    color: blue;
+    font-size: 90px;
+    line-height: 100px;
+}
+#stopCountdown {
+    text-align: center;
+    margin-left: 20px;
+    cursor: pointer;
+    color: red;
+    font-size: 70px;
+    line-height: 100px;
+    color: #ccc;
+    padding: 0 20px;
+    background-color: #333;
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+
+    width: 268px;
+    margin-left: 100px;
+}
+#stopCountdown:hover {
+    color: #ddd;
+    background-color: #111;
+}
+#redirectNotice p {
+    font-size: 20px;
+}
+.float {
+    float: left;
+}
+.clear {
+    clear: both;
+}
+.mega {
+    font-size: 80px;
+}
+.spacer_50 {
+    height: 20px;
+    width: 100px;
 }
