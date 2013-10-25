@@ -5,7 +5,7 @@ author: Dinesh
 picture: dinesh_d.jpg
 authortitle: Software Engineer
 category: culture
-oldLink: /52061136707/bigger-hearts-a-gateway-to-the-customers-hearts
+oldLink: /post/52061136707/bigger-hearts-a-gateway-to-the-customers-hearts
 tags:
 - betterme
 - customer service

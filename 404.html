@@ -1,0 +1,28 @@
+---
+layout: default
+title: Oh No!
+---
+
+<section id="main_content" class="inner">
+    <p>Hello mon frère</p>
+    <p>Seems you are lost, I&rsquo;m so sorry to report.</p>
+    <div id="redirectNotice" style="display:none;">
+        <p>However I have good news! Our blog bot has decided that you were looking for one of the
+        URLs we used on our old domain, so you&rsquo;re being redirected! So exciting!</p>
+        <p>Please be patient, it&rsquo;s a five second pause so you don&rsquo;t get all discombobulated.</p>
+    </div>
+</section>
+
+<script>
+    var linkMap = {};
+    {% for post in site.posts %}
+    linkMap["{{ post.oldLink }}"] = "{{ post.url }}";
+    {% endfor %}
+
+    if (location.pathname in linkMap) {
+        document.getElementById("redirectNotice").style.display = 'block';
+        setTimeout(function() {
+            window.location = linkMap[location.pathname];
+        }, 5000);
+    }
+</script>
