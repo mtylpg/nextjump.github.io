@@ -35,6 +35,28 @@ layout: default
             {% if page.twitter %}
             <p>Follow {{ page.author }} on Twitter <a href="https://twitter.com/{{ page.twitter }}"><span class="handle">@{{ page.twitter }}</span></a></p>
             {% endif %}
+            <div>
+                <script>
+                {% if page.oldLink %}
+                var pageLink = "http://blog.nextjump.com{{ page.oldLink }}";
+                {% else %}
+                var pageLink = location.href;
+                {% endif %}
+                var encodedPageLink = encodeURIComponent(pageLink);
+                </script>
+                <a href="#" onclick="window.open(
+                    'https://www.facebook.com/sharer/sharer.php?u='+encodedPageLink, 
+                    'facebook-share-dialog', 
+                    'width=626,height=436'); 
+                    return false;">
+                    Share on Facebook
+                </a>
+                <iframe id="facebookLikeBox" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowTransparency="true"></iframe>
+                <script>
+                    var likes = document.getElementById('facebookLikeBox');
+                    likes.src = "//www.facebook.com/plugins/like.php?href="+encodedPageLink+"&amp;width=275px&amp;height=80&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=false" ;
+                </script>
+            </div>
         </div>
     </div>
     <div id="disqus_thread"></div>
