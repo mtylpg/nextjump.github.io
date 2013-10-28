@@ -1,0 +1,8 @@
+<script>
+    {% if page.oldLink %}
+        var pageLink = "http://blog.nextjump.com{{ page.oldLink }}";
+    {% else %}
+        var pageLink = location.href;
+    {% endif %}
+    var encodedPageLink = encodeURIComponent(pageLink);
+</script>

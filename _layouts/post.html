@@ -22,7 +22,7 @@ layout: default
                 <img src="/images/{{ page.picture }}" style="max-width: 100px;">
             {% endif %}
         </div>
-        <div class="text">
+        <div class="info">
             <div>Posted under <a href="/{{ page.category }}.html">{{ page.category }}</a> on {{ page.date | date_to_string }}</div>
             <p>
                 By {{ page.author }}
@@ -30,33 +30,17 @@ layout: default
             {% if page.authorTitle %}
             <p>{{ page.authorTitle }}</p>
             {% endif %}
-            <div>
 
             {% if page.twitter %}
             <p>Follow {{ page.author }} on Twitter <a href="https://twitter.com/{{ page.twitter }}"><span class="handle">@{{ page.twitter }}</span></a></p>
             {% endif %}
-            <div>
-                <script>
-                {% if page.oldLink %}
-                var pageLink = "http://blog.nextjump.com{{ page.oldLink }}";
-                {% else %}
-                var pageLink = location.href;
-                {% endif %}
-                var encodedPageLink = encodeURIComponent(pageLink);
-                </script>
-                <a href="#" onclick="window.open(
-                    'https://www.facebook.com/sharer/sharer.php?u='+encodedPageLink, 
-                    'facebook-share-dialog', 
-                    'width=626,height=436'); 
-                    return false;">
-                    Share on Facebook
-                </a>
-                <iframe id="facebookLikeBox" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:80px;" allowTransparency="true"></iframe>
-                <script>
-                    var likes = document.getElementById('facebookLikeBox');
-                    likes.src = "//www.facebook.com/plugins/like.php?href="+encodedPageLink+"&amp;width=275px&amp;height=80&amp;colorscheme=light&amp;layout=standard&amp;action=like&amp;show_faces=true&amp;send=false" ;
-                </script>
-            </div>
+        </div>
+        <div class="clear"></div>
+        <div class="social">
+            {% include socialSetup.html %}
+            {% include facebookLike.html %}
+            {% include facebookShare.html %}
+            {% include twitterShare.html %}
         </div>
     </div>
     <div id="disqus_thread"></div>

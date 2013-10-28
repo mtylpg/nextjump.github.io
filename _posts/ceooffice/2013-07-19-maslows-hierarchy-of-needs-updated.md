@@ -24,7 +24,6 @@ Maslow’s Hierarchy of Needs is a theory in psychology proposed by Abraham Masl
 
 ![](/images/maslows-hierarchy-of-needs-updated-2.png)
 
-
 Fast forward to today, the information age, the greatest asset of every company is its people. So what is the updated framework for fulfilled happy human beings?
 
 **SECURITY**
