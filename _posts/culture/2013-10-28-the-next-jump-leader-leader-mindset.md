@@ -24,6 +24,10 @@ I'm not talking about how a select few members in the company direct others - I'
 
 At Next Jump, our top leadership team is 21 members strong. Called MV21, this team is responsible for two major things. 1) To lead the direction of the company, “steering our ship through stormy seas” and 2) To grow more leaders in the company. The "MV" part of the team name stands for "Martha's Vineyard," the location the team travels to for a week long offsite every year. One of our investors has a property there, which sleeps 21 people, hence "21" leaders became Next Jump tradition.
 
+![MV21](/images/MV21_deck_plus_investor.jpg)
+
+<div class="imageSubtext">Team MV21 Class of 2014 with one of our investors, John Schley. John donates his MV property to the Team each year so we can complete our offsite away from all distractions.</div>
+
 The criteria to be selected as part of the MV21 Team are simple. MV21 members should:
 - Take ownership and responsibility of their own actions and products
 - Build systems and products that impact both short and long term revenue
@@ -34,6 +38,10 @@ What's different about MV21 compared to most other company leadership teams is t
 
 ### MV21 in Practice
 Having so many leaders in our top team, who all come from different areas of the business, and are empowered to make companywide decisions, means we can push the business forward at unmatched speeds. The team all work as one unit towards our common goal, but attack the problem from all different sides (they're all different people with different experiences after all!). In doing so, ideas are generated and executed faster, issues are solved quicker, and revenue comes in sooner. This, in turn, then allows us to invest that revenue back into our employees and grow even more NxJumpers into leaders to push our business forward. It's a continuous cycle.
+
+![MV21 brainstorming](/images/MV21_intro_sheets.jpg)
+
+<div class="imageSubtext">Team MV21 generating ideas on how to grow Next Jump to the next level.</div>
 
 Recently, our CEO set us a simple goal - how can we take the company to the next level and grow exponentially? Within days of this request, 11 new projects had ignited, all coming from MV21 members and aspiring young leaders alike. Projects ranged from mass automation to heavily increase content on our site, to deeper integrations with our merchant partners for travel, fashion and tickets, and even going as far as global expansion, with plans to launch in 200 different countries within a month (!). None of these projects were CEO driven, but already, 6 of them have been given the green light to go ahead.
 

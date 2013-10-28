@@ -582,3 +582,10 @@ My Styles
     height: 20px;
     width: 100px;
 }
+.imageSubtext {
+    font-size: 14px;
+    font-style: italic;
+    margin: 10px auto 20px;
+    max-width: 80%;
+    text-align: center;
+}
